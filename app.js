@@ -1,4 +1,4 @@
-console.log("Hello mdfk");
+
 let add=document.getElementById('increase');
 let remove=document.getElementById('decrease');
 let zero=document.getElementById('reset');
@@ -22,3 +22,4 @@ zero.addEventListener('click',function(){
 });
 
 
+console.log("Hello mdfk");
