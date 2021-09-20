@@ -1,0 +1,15 @@
+/* 
+Auhtor : Ayman Rayan Kissami;
+theme :Restaurant project;
+*/
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 80%;
+    border: 1px solid red;
+    padding: 1%;
+   
+}
